@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattfwilson2, (lost access to @mattfwilson)
-- 👀 I’m interested in game design, Python, data modeling
+- 👀 Product Designer at heart but interested in game design, Python, data modeling
 - 🌱 I’m currently learning Python!
 - 📫 How to reach me: mfwilson.com
 
